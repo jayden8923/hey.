@@ -4,4 +4,4 @@ It works like this, the vbs file opens a text box and then opens an exe file tha
 You can open the exe file first if you want too though.
 
 # MORE
-This page does not have any source code, but it does have a sourceforge page.
+This page does not have any source code, but it does have a sourceforge page at https://sourceforge.net/projects/hey-virus/.
